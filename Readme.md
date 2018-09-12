@@ -1,3 +1,5 @@
+# A simple API to run test against
+
 Runs test against a GET endpoint at a distinct url. The rules of the endpoint return are pasted below
 Run with python -m pytest
 
